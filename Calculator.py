@@ -1,6 +1,3 @@
-# My First Python Calculator
-# Built by Chideraa - FUASK - Day 1
-
 # My First Calculator - Day 4 Upgrade
 # FUASK AI Student - Chideraa-AI
 
